@@ -9,6 +9,7 @@ tags:
 - Security
 - CISSP
 permalink: "/cpes-in-quarantine/"
+share-img: "/assets/img/cpe-image2.png"
 ---
 # Info on Professional CPEs
 Professional certificates such as [CISSP](https://www.isc2.org/Certifications/CISSP) require CPEs (Continuing Professional Education). Typically your employer will help you obtain fufill some of these requirements by sending you to trainings, conferences, and encourage professional development. But at the end of the day - it is a **personal responsibility** to complete this requirement in order to keep your certification. 
