@@ -12,7 +12,7 @@ permalink: "/cpes-in-quarantine/"
 share-img: "/assets/img/cpe-image2.png"
 ---
 # Info on Professional CPEs
-Professional certificates such as [CISSP](https://www.isc2.org/Certifications/CISSP) require CPEs (Continuing Professional Education). Typically your employer will help you obtain fufill some of these requirements by sending you to trainings, conferences, and encourage professional development. But at the end of the day - it is a **personal responsibility** to complete this requirement in order to keep your certification. 
+Professional certificates such as [CISSP](https://www.isc2.org/Certifications/CISSP) require CPEs (Continuing Professional Education). Typically your employer will help you obtain fulfill some of these requirements by sending you to trainings, conferences, and encourage professional development. But at the end of the day - it is a **personal responsibility** to complete this requirement in order to keep your certification. 
 
 I will focus on CISSP development as this is the certification I have and I definitely recommend it if you want to get a job/career in 
 - IT Professional
@@ -105,7 +105,7 @@ From the chart you can see that Group A categories are like gold as they can all
 
 ## Group B - Professional Development
 
-- Earn CPEs for activies around enhancing professional skills outside of the security domains including management, interpersonal communcation, project planning, team building, etc.
+- Earn CPEs for activities around enhancing professional skills outside of the security domains including management, interpersonal communication, project planning, team building, etc.
 - Examples:
     - Chapter formation or management
     - Non-security industry conference
@@ -115,7 +115,7 @@ From the chart you can see that Group A categories are like gold as they can all
 
 ### Specific Rules
 
-- 1 hour of participation equaling 1 CPE for Group B, not exceeding 40 (may report in 0.25 incredments)
+- 1 hour of participation equaling 1 CPE for Group B, not exceeding 40 (may report in 0.25 increments)
 
 ## Word to the Wise
 
@@ -142,7 +142,7 @@ My personal recommendation for security related podcasts are:
 
 ## Youtube
 
-Who knew I would get CPEs while being asked to like/subscribe to content creators videos. This was surprise number 2 for me. However this opens up just a huge list of free trainings including alot of great conference material that has gone virtual and free.
+Who knew I would get CPEs while being asked to like/subscribe to content creators videos. This was surprise number 2 for me. However this opens up just a huge list of free trainings including a lot of great conference material that has gone virtual and free.
 
 Here is one that will keep you busy - Defcon 20 Safe Mode - Defcon material has gone virtual this year and you can watch it online on youtube while collecting your CPEs.
 - [Defcon 20 - Safe Mode - Main Stage Playlist](https://www.youtube.com/watch?v=aLe-xW-Ws4c&list=PL9fPq3eQfaaBk9DFnyJRpxPi8Lz1n7cFv)
@@ -156,8 +156,8 @@ Checkout the Defcon website for more details:
 Similar to the last recommendation - a lot of the conferences that usually cost thousands of dollars to attend have gone free this year. This is great news - however this means you have to sign up early as some have a virtual capacity and some will not post content after the show (unlike our friends at defcon above).
 
 Some that I plan to attend:
-- [Microsoft Ignite 2020 - 48hr virtual conference](https://www.microsoft.com/en-us/ignite) - But wait - this is not a security conference. That is true! But remember if there are topics that are for a security discipline such as Business Continuiity Disaster Recovery (BCDR), Authentication/Authorization, Security Engineering, etc. these learnings can be part of Group A (otherwise non-security learning can still be part of Group B)
-- [BSides Seattle 2020](https://www.bsidesseattle.com/) - This is a good opportuntiy as traditionally BSide security conferences are the content that barely miss approval or miss timing for DefCon and Blackhat. Presenters are always terrific and it is one of my favorite conferences I look forward to all year. Bsides founder is [@nerd_monkey](https://twitter.com/nerd_monkey) and he is very passionate about making it a great experience for all people interested in security topics. There are also other localized b-sides conferences - which could also be virtual this year. Win-win in my opinion.
+- [Microsoft Ignite 2020 - 48hr virtual conference](https://www.microsoft.com/en-us/ignite) - But wait - this is not a security conference. That is true! But remember if there are topics that are for a security discipline such as Business Continuity Disaster Recovery (BCDR), Authentication/Authorization, Security Engineering, etc. these learnings can be part of Group A (otherwise non-security learning can still be part of Group B)
+- [BSides Seattle 2020](https://www.bsidesseattle.com/) - This is a good opportunity as traditionally BSide security conferences are the content that barely miss approval or miss timing for DefCon and Blackhat. Presenters are always terrific and it is one of my favorite conferences I look forward to all year. Bsides founder is [@nerd_monkey](https://twitter.com/nerd_monkey) and he is very passionate about making it a great experience for all people interested in security topics. There are also other localized b-sides conferences - which could also be virtual this year. Win-win in my opinion.
 
 ## In Closing
 Hopefully this post sparked your brain for some new ideas on how to get CPEs both in quarantine but also in some ways that boost your overall continued education. Find me on twitter if you think I missed anything that would be helpful for folks in their CPE journey! 
