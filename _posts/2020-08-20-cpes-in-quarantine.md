@@ -137,7 +137,7 @@ Big Thanks to [@AveMaxima](https://twitter.com/AveMaxima) and [@MrThomasRayner](
 
 My personal recommendation for security related podcasts are:
 - [Darknet Diaries](https://darknetdiaries.com/) - created by Jack Rhysider. 
-    - My favorite episode set to get you hooked is XBox Underground [Part 1](https://darknetdiaries.com/episode/45/) and [Part 2](https://darknetdiaries.com/episode/46/). They are so good that I guarantine you will be thanking me later for the introduction (if you haven't heard them already)
+    - My favorite episode set to get you hooked is XBox Underground [Part 1](https://darknetdiaries.com/episode/45/) and [Part 2](https://darknetdiaries.com/episode/46/). They are so good that I guarantee you will be thanking me later for the introduction (if you haven't heard them already)
 - [Security Now](https://twit.tv/shows/security-now) - host Steve Gibson and Leo Laporte. Steve is a subject matter expert in security and Leo is a long time technology TV/Radio personality (I remember watching Leo on TechTV back in the day.) Really good topics and conversations here. Add this one to your podcast list.
 
 ## Youtube
