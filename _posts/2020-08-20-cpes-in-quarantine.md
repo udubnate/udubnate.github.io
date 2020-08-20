@@ -27,6 +27,7 @@ Even if you aren't 100% focused on security in your job, this certificate is def
 The CISSP certificate requires you to obtain 120 CPEs in 3 years. If you do some simple math that is 40 per year. 1 CPE is more or less translated into 1 hour of professional development (emphasis on security). Here is the list of CPEs for CISSP. [Reference - Copy of CISSP Handbook](https://www.isc2.org/-/media/ISC2/Certifications/CPE/CPE---Handbook.ashx)
 
 For CISSP certification - CPE Requirements
+
 | Type | Suggested Annual | 3-Year Total |
 | ----------- | ----------- | ----------- |
 | Group A | 30 | 90 |
