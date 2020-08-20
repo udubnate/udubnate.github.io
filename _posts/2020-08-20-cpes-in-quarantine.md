@@ -35,7 +35,9 @@ For CISSP certification - CPE Requirements
 From the chart you can see that Group A categories are like gold as they can all be applied to hit that 120 total (As for Group B where you max out at 30). Specific categories are defined below.
 
 ## Group A or B - Continued Education
+
 ### Self Directed Learning activities mapping back to credential domains(s) including:
+
 - Book, magazine or whitepaper
 - Courses and seminars - other
 - Higher education course
@@ -45,7 +47,9 @@ From the chart you can see that Group A categories are like gold as they can all
 - Online webinars, podcasts and other online and other online offerings
 - Professional information security chapter meeting
 - Vendor presentation
+
 ### Specific Rules
+
 - Maximum number of CPEs apply to the following activities:
     - Books – 5 CPEs per book with 250-word description
     - Magazine – 5 CPEs per magazine issue with 250-word description
@@ -57,12 +61,16 @@ From the chart you can see that Group A categories are like gold as they can all
 - Some of these CPE activities are self-reported through the CPE portal and may be audited.
 
 ## Group A - Contributions to the Profession - Create New Industry Knowledge
+
 ### Creating new topics related to your credential area of expertise
+
 - Writing, researching & publishing
 - Preparation time for a webinar, podcast, or presentation
 - Preparing new or updating existing training seminar or classroom material (this excludes development of (ISC)2 Official Training Materials)
 - Serving as Subject Matter Expert (SME) for a panel discussion
+
 ### Specific Rules
+
 - Maximum number of CPEs apply to the following activities:
     - Books – 40 CPEs per book as author, 20 CPEs per book as co-author, 10 CPEs per book as editor
     - Articles – 20 CPEs per article as author, 10 CPEs per article as co-author, 5 CPEs per article as editor
@@ -70,23 +78,31 @@ From the chart you can see that Group A categories are like gold as they can all
     - Professional Blog – 10 CPEs per blog as author, 5 CPEs per blog as co-author, 2 CPEs per blog as editor
     - White Paper – 10 CPEs per white paper as author, 5 CPEs per white paper as co-author, 2 CPEs per white paper as editor
     - Preparing existing training - 1-day course equals 2 CPEs, 2-day course equals 5 CPEs, 5-7 days course equals 10 CPEs, semester (12 or more weeks) equals 20 CPEs
+
 ### Volunteer Service
+
 - Provide volunteer, non-compensated services to non-employer or non-client customer groups related to your credential domains.
 - Examples:
     - Performing board service for a professional security organization. (This does not include service on chapter boards.)
     - Government, public sector, or other charitable organizations committees or working groups
     - Participation in security standards development for a recognized committee
+
 ### Specific Rules
+
 - 1 hour of attendance or participation related to the credential domains equals 1 CPE (may reported in 0.25 increments)
 - Do not exceed 40 CPEs
 
 ## Group A - Unique Work Experience
+
 -  Earn up to 10 Group A CPE credits for activities performed during their regular working hours when they are engaged in unique projects, assignments, activities or exercises. The unique project, assignment, activity or exercise must fall outside of their normal (or day-to-day) job responsibilities or job description.
 - This can be a specific projects that relates to the security domains
+
 ### Specific Rules
+
 - 1 hour of participation related to the credential domains equals 1 CPE with a maximum of 10 CPEs per unique work experience (may reported in 0.25 increments)
 
 ## Group B - Professional Development
+
 - Earn CPEs for activies around enhancing professional skills outside of the security domains including management, interpersonal communcation, project planning, team building, etc.
 - Examples:
     - Chapter formation or management
@@ -94,10 +110,13 @@ From the chart you can see that Group A categories are like gold as they can all
     - Non-security education courses and seminars
     - Non-Security Government/Private Sector/Charitable Organizations Committees
     - Preparation for non-security presentation/lecture/training
+
 ### Specific Rules
+
 - 1 hour of participation equaling 1 CPE for Group B, not exceeding 40 (may report in 0.25 incredments)
 
 ## Word to the Wise
+
 Just remember - that all these CPEs may include an audit. So also pay attention to the documentation required per the website. I haven't been audited but I always make sure to due diligence to make sure I can attest to any of the work above while submitting my CPEs. [Reference - Copy of CISSP Handbook](https://www.isc2.org/-/media/ISC2/Certifications/CPE/CPE---Handbook.ashx)
 
 
