@@ -45,9 +45,10 @@ winget install <appname>
 ```
 
 There are plenty of packages. There will be scenarios where there are missing packages and what you can do here is
-- (Submit your own packages to the report)[https://learn.microsoft.com/en-us/windows/package-manager/package/repository]
+- [Submit your own packages to the report](https://learn.microsoft.com/en-us/windows/package-manager/package/repository)
 
 # Tips and tricks
+
 ## Export and Import
 
 My favorite use of the tool is to get all the packages on my primary machine using the search and install commands above. Then take a snapshot and export the list to a JSON file.
@@ -63,6 +64,7 @@ Here is the import command
 ```
 winget import -i .\WinGetExport.json
 ```
+  
 ## Update all packages
 
 One feature I really love in this tool is the ability to update all my software at once, here is the quick command to do this on your dev workstation
@@ -70,7 +72,7 @@ One feature I really love in this tool is the ability to update all my software 
 ```
 winget upgrade --all
 ```
-
+  
 ## Winget Settings
 
 Another useful tip - is to check your winget settings, this is a config file where you can set the duration to auto-upgrade your applications on your dev workstation
@@ -79,6 +81,8 @@ Another useful tip - is to check your winget settings, this is a config file whe
 winget settings
 ```
 
-
+## Winget Security
+One question that gets asked often is if Winget is secure ? The Windows Package Manager communtiy App Repository does mutliple automated scans of packages submitted during the submission process. This includes anti-virus and dynamic analysis. The community repository is also signed by Microsoft and is hosted on Microsoft Azure. I would say it is not full proof as you should always be cautious when installing new software from the internet. However it is infinitely better than clicking a random link or going to a random website to download software. Another tip is you can always check the file hash of the software or run the software through a tool such as [Virus Total](https://www.virustotal.com/gui/home/upload) to increase your confidence of the sofware you are installing from WinGet.
+  
 ## In Closing
 Hopefully this helped you get onboarded to help you automate your dev workstation. Please reach out if you have any questions. If you have any comments or feedback please reach out to me on [@udubnate on twitter](https://twitter.com/udubnate)
