@@ -14,3 +14,5 @@ When I am not working, what do I enjoy
  - Beer tasting with my wife. We love going to different breweries and trying what's new
  - Hiking (Beginner and Intermediate routes) - I really just enjoy being outside
  - Retro gaming - playing games on old systems and reliving my youth is the best. I periodically enjoy watching youtubers stream Super Mario World Hacks of levels that would be impossible for me to play.
+
+ You can contact me on Twitter - (UDUBNate)[https://twitter.com/udubnate]
