@@ -11,7 +11,7 @@ tags:
 - Windows
 - Security
 permalink: "/winget-package-mgmt/"
-share-img: "/assets/img/winget-package-img.jpg"
+share-img: "/assets/img/winget-package-img.png"
 ---
 # Package Management
 One of my favorite things about the linux operating system is their vast package management system that allows you to quickly get the applications you need, make sure their come from a trusted source, and make sure you can update these packages with a simple command such as apt-get update && apt-get upgrade.
